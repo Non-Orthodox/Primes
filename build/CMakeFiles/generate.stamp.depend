@@ -1,0 +1,23 @@
+# CMake generation dependency list for this directory.
+D:/dev/c++/Primes/CMakeLists.txt
+D:/dev/c++/Primes/build/CMakeFiles/3.20.5/CMakeCCompiler.cmake
+D:/dev/c++/Primes/build/CMakeFiles/3.20.5/CMakeCXXCompiler.cmake
+D:/dev/c++/Primes/build/CMakeFiles/3.20.5/CMakeRCCompiler.cmake
+D:/dev/c++/Primes/build/CMakeFiles/3.20.5/CMakeSystem.cmake
+D:/msys64/mingw64/share/cmake-3.20/Modules/CMakeCInformation.cmake
+D:/msys64/mingw64/share/cmake-3.20/Modules/CMakeCXXInformation.cmake
+D:/msys64/mingw64/share/cmake-3.20/Modules/CMakeCommonLanguageInclude.cmake
+D:/msys64/mingw64/share/cmake-3.20/Modules/CMakeGenericSystem.cmake
+D:/msys64/mingw64/share/cmake-3.20/Modules/CMakeInitializeConfigs.cmake
+D:/msys64/mingw64/share/cmake-3.20/Modules/CMakeLanguageInformation.cmake
+D:/msys64/mingw64/share/cmake-3.20/Modules/CMakeRCInformation.cmake
+D:/msys64/mingw64/share/cmake-3.20/Modules/CMakeSystemSpecificInformation.cmake
+D:/msys64/mingw64/share/cmake-3.20/Modules/CMakeSystemSpecificInitialize.cmake
+D:/msys64/mingw64/share/cmake-3.20/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+D:/msys64/mingw64/share/cmake-3.20/Modules/Compiler/MSVC-C.cmake
+D:/msys64/mingw64/share/cmake-3.20/Modules/Compiler/MSVC-CXX.cmake
+D:/msys64/mingw64/share/cmake-3.20/Modules/Platform/Windows-MSVC-C.cmake
+D:/msys64/mingw64/share/cmake-3.20/Modules/Platform/Windows-MSVC-CXX.cmake
+D:/msys64/mingw64/share/cmake-3.20/Modules/Platform/Windows-MSVC.cmake
+D:/msys64/mingw64/share/cmake-3.20/Modules/Platform/Windows.cmake
+D:/msys64/mingw64/share/cmake-3.20/Modules/Platform/WindowsPaths.cmake
